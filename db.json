@@ -15,63 +15,78 @@
       "PartList": [
         {
           "code": "01",
-          "title": "신체계측"
+          "title": "기본검사",
+          "priority": "N"
         },
         {
           "code": "02",
-          "title": "기본검사"
+          "title": "단기검사",
+          "priority": "N"
         },
         {
           "code": "03",
-          "title": "장기검사"
+          "title": "장기검사",
+          "priority": "N"
         },
         {
           "code": "01",
-          "title": "신체계측"
+          "title": "기본검사",
+          "priority": "S"
         },
         {
           "code": "02",
-          "title": "기본검사"
+          "title": "단기검사",
+          "priority": "L"
         },
         {
           "code": "03",
-          "title": "장기검사"
+          "title": "장기검사",
+          "priority": "N"
         },
         {
           "code": "01",
-          "title": "신체계측"
+          "title": "기본검사",
+          "priority": "N"
         },
         {
           "code": "02",
-          "title": "기본검사"
+          "title": "단기검사",
+          "priority": "S"
         },
         {
           "code": "03",
-          "title": "장기검사"
+          "title": "장기검사",
+          "priority": "S"
         },
         {
           "code": "01",
-          "title": "신체계측"
+          "title": "기본검사",
+          "priority": "N"
         },
         {
           "code": "02",
-          "title": "기본검사"
+          "title": "단기검사",
+          "priority": "N"
         },
         {
           "code": "03",
-          "title": "장기검사"
+          "title": "장기검사",
+          "priority": "N"
         },
         {
           "code": "01",
-          "title": "신체계측"
+          "title": "기본검사",
+          "priority": "L"
         },
         {
           "code": "02",
-          "title": "기본검사"
+          "title": "단기검사",
+          "priority": "S"
         },
         {
           "code": "03",
-          "title": "장기검사"
+          "title": "장기검사",
+          "priority": "N"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "id": "JAEJIN01",
+      "id": "01",
       "title": "HI"
     },
     {
-      "id": "JAEJIN02",
+      "id": "02",
       "title": "HELLO"
     }
   ],
@@ -14,52 +14,64 @@
       "resRsltCnte": "Success",
       "PartList": [
         {
-          "code": "JAEJIN01",
+          "code": "01",
           "title": "신체계측"
         },
         {
-          "code": "JAEJIN02",
-          "title": "기본혈액검사"
+          "code": "02",
+          "title": "기본검사"
         },
         {
-          "code": "JAEJIN12",
-          "title": "심혈관계검사"
+          "code": "03",
+          "title": "장기검사"
         },
         {
-          "code": "JAEJIN13",
-          "title": "뇌/뇌혈관계검사"
+          "code": "01",
+          "title": "신체계측"
         },
         {
-          "code": "JAEJIN10",
-          "title": "소화기계검사"
+          "code": "02",
+          "title": "기본검사"
         },
         {
-          "code": "JAEJIN14",
-          "title": "내분비계검사"
+          "code": "03",
+          "title": "장기검사"
         },
         {
-          "code": "JAEJIN16",
-          "title": "신장/비뇨기계 검사"
+          "code": "01",
+          "title": "신체계측"
         },
         {
-          "code": "JAEJIN21",
-          "title": "혈청 및 면역 검사"
+          "code": "02",
+          "title": "기본검사"
         },
         {
-          "code": "JAEJIN11",
-          "title": "호흡기계검사"
+          "code": "03",
+          "title": "장기검사"
         },
         {
-          "code": "JAEJIN15",
-          "title": "알레르기검사"
+          "code": "01",
+          "title": "신체계측"
         },
         {
-          "code": "JAEJIN07",
-          "title": "안과검사"
+          "code": "02",
+          "title": "기본검사"
         },
         {
-          "code": "JAEJIN09",
-          "title": "이비인후과검사"
+          "code": "03",
+          "title": "장기검사"
+        },
+        {
+          "code": "01",
+          "title": "신체계측"
+        },
+        {
+          "code": "02",
+          "title": "기본검사"
+        },
+        {
+          "code": "03",
+          "title": "장기검사"
         }
       ]
     },

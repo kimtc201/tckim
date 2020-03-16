@@ -26,6 +26,7 @@
             "range": "0~40",
             "result1": "1916",
             "result2": "2994",
+            "opinion": "good",
             "colorFlag1": "2",
             "colorFlag2": "2"
           },
@@ -60,8 +61,7 @@
           {
             "code": "03",
             "name": "Pulmonary Fuction Test",
-            "pohEitmSeq": "1",
-            "mdscJgmtCnte": "Success",
+            "opinion": "Success",
             "result1": "Result1 OK",
             "result2": "Result2 Error"
           }

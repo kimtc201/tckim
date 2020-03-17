@@ -1,7 +1,7 @@
 {
   "parts": {
-    "resRsltCd": "100",
-    "resRsltCnte": "Success",
+    "resResultCode": "100",
+    "resResultContents": "Success",
     "partResultList": [
       {
         "id": "01",
@@ -66,12 +66,76 @@
             "result2": "Result2 Error"
           }
         ]
+      },
+      {
+        "id": "01",
+        "flag": "2",
+        "subTitle": "Nicotine2 Test",
+        "priority": "S",
+        "description": "TABLE DESCRIPTION",
+        "subDateList": [
+          {
+            "no": "01",
+            "ordDt": "2020-01-17"
+          },
+          {
+            "no": "02",
+            "ordDt": "2014-02-28"
+          }
+        ],
+        "subResultList": [
+          {
+            "code": "01",
+            "name": "Cotinine",
+            "range": "0~40",
+            "result1": "1916",
+            "result2": "2994",
+            "opinion": "good",
+            "colorFlag1": "2",
+            "colorFlag2": "2"
+          },
+          {
+            "code": "02",
+            "name": "Tar",
+            "range": "0~40",
+            "result1": "12",
+            "result2": "35",
+            "colorFlag1": "1",
+            "colorFlag2": "3"
+          }
+        ]
+      },
+      {
+        "id": "01",
+        "flag": "1",
+        "subTitle": "Pulmonary Fuction2 Test",
+        "priority": "E",
+        "description": "TEXT DESCRIPTION",
+        "subDateList": [
+          {
+            "no": "01",
+            "ordDt": "2020-01-17"
+          },
+          {
+            "no": "02",
+            "ordDt": "2014-02-28"
+          }
+        ],
+        "subResultList": [
+          {
+            "code": "03",
+            "name": "Pulmonary Fuction Test",
+            "opinion": "Success",
+            "result1": "Result1 OK",
+            "result2": "Result2 Error"
+          }
+        ]
       }
     ]
   },
   "lists": {
-    "resRsltCd": "100",
-    "resRsltCnte": "Success",
+    "resResultCode": "100",
+    "resResultContents": "Success",
     "PartList": [
       {
         "code": "01",
@@ -81,29 +145,14 @@
       {
         "code": "02",
         "title": "Short Examination",
-        "priority": "N"
+        "priority": "S"
       },
       {
         "code": "03",
         "title": "Long Examination",
-        "priority": "N"
-      },
-      {
-        "code": "01",
-        "title": "Basic Examination",
-        "priority": "S"
-      },
-      {
-        "code": "02",
-        "title": "Short Examination",
         "priority": "L"
       },
       {
-        "code": "03",
-        "title": "Long Examination",
-        "priority": "N"
-      },
-      {
         "code": "01",
         "title": "Basic Examination",
         "priority": "N"
@@ -116,29 +165,14 @@
       {
         "code": "03",
         "title": "Long Examination",
-        "priority": "S"
-      },
-      {
-        "code": "01",
-        "title": "Basic Examination",
-        "priority": "N"
-      },
-      {
-        "code": "02",
-        "title": "Short Examination",
-        "priority": "N"
-      },
-      {
-        "code": "03",
-        "title": "Long Examination",
-        "priority": "N"
-      },
-      {
-        "code": "01",
-        "title": "Basic Examination",
         "priority": "L"
       },
       {
+        "code": "01",
+        "title": "Basic Examination",
+        "priority": "N"
+      },
+      {
         "code": "02",
         "title": "Short Examination",
         "priority": "S"
@@ -146,7 +180,37 @@
       {
         "code": "03",
         "title": "Long Examination",
+        "priority": "L"
+      },
+      {
+        "code": "01",
+        "title": "Basic Examination",
         "priority": "N"
+      },
+      {
+        "code": "02",
+        "title": "Short Examination",
+        "priority": "S"
+      },
+      {
+        "code": "03",
+        "title": "Long Examination",
+        "priority": "L"
+      },
+      {
+        "code": "01",
+        "title": "Basic Examination",
+        "priority": "N"
+      },
+      {
+        "code": "02",
+        "title": "Short Examination",
+        "priority": "S"
+      },
+      {
+        "code": "03",
+        "title": "Long Examination",
+        "priority": "L"
       }
     ]
   }
